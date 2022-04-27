@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning ...DSA,java,Web Development,DBMS,OOPS.
 <!--
 **KaranA19/KaranA19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
