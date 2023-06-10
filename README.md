@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/karanarora01/" target="blank"><img src="https://img.shields.io/badge/Linkedin-Karan-blue?style=for-the-badge&logo=linkedin" alt="Karan" /></a> </p>
 
 ### 🌱 I’m currently learning Data Structures in Java and Web Devolpment.
-### 📫 How to reach me: karanarora0119@gmail.com
+### 📫 How to reach me: karanarora2744@gmail.com
 
           
            
